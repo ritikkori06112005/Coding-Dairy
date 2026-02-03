@@ -16,7 +16,7 @@ Welcome to my journey of learning to code! This repository is a record of my pro
 * **Quote:** *"Coding is hard; celebrating small victories keeps you from burning out."*
 
 **Days Completed:**
-* [Day 1:html structure].(day1.md).
+* [Day 1: HTML Structure & Forms](day1.md)
 
 ---
 
