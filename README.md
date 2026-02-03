@@ -1,12 +1,12 @@
 # Coding-Dairy
 A personal learning journal documenting my daily coding progress. This repository tracks concepts learned, bugs fixed, and resources used, fostering consistency and self-reflection in my development journey.
-# 💻 My Coding Diary
+# Coding Diary
 
 Welcome to my journey of learning to code! This repository is a record of my progress, struggles, and breakthroughs as I build my skills from the ground up.
 
 ---
 
-## 📅 Weekly Summaries
+## Weekly Summaries
 
 ### Week 1 (Jan 1 - Jan 7)
 **Focus:** HTML Basics and Git  
@@ -20,10 +20,9 @@ Welcome to my journey of learning to code! This repository is a record of my pro
 
 ---
 
-## 🚀 Overall Progress
+## Overall Progress
 * **Current Goal:** Mastering HTML & GitHub Workflow
 * **Total Days Active:** 2
 * **Next Milestone:** Introduction to CSS Styling
 
 ---
-*Created with ❤️ while learning to code.*
