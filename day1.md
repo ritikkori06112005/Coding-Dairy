@@ -1,4 +1,4 @@
-# 📔 Coding Diary: Day 1 - HTML Structures & Data
+#  Coding Diary: Day 1 - HTML Structures & Data
 
 ## What I Learned
 **Objective:** Moving beyond basic text tags to build accessible, meaningful page structures and handle user input.
